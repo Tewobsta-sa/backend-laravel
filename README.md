@@ -19,7 +19,7 @@
 ## Run Locally
 
 ```bash
-git clone https://github.com/your-username/backend-laravel.git
+git clone https://github.com/Tewobsta-sa/backend-laravel.git
 cd backend-laravel
 composer install
 cp .env.example .env
